@@ -5900,10 +5900,6 @@ hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "f161ef0f51d4bb9cc5386212bf8fc8cd7425ff1adfaba5a04214e05adfd7c307"
-
-[[files]]
 file = "resourcepacks/aimz-sniper-crosshair.pw.toml"
 hash = "12fc92e0e661b0fa408ee991f43b9c7ec4a67c5dfc71fd73c1495f85ca33b626"
 metafile = true
