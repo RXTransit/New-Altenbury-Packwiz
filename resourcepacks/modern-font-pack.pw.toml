@@ -1,0 +1,13 @@
+name = "Modern Font Pack"
+filename = "MFP-JH-1223J.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2C5ThaTB/versions/XIdVqhDm/MFP-JH-1223J.zip"
+hash-format = "sha512"
+hash = "fedb93088604b53cd142a17bcde7ee3da83444c5af69f44fd4262fb55e9d9847c1f6f15e768e5d636cc0b83c8a5f7cfbb180ef408f42d65863037bb86de4e313"
+
+[update]
+[update.modrinth]
+mod-id = "2C5ThaTB"
+version = "XIdVqhDm"

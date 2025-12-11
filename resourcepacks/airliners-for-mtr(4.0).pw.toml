@@ -1,0 +1,13 @@
+name = "[MTR4] Airliners for MTR - GAP models"
+filename = "Airliners_MTR4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SmhnhRlv/versions/Q3iGFpzT/Airliners_MTR4.0.zip"
+hash-format = "sha512"
+hash = "73f435f178deb28b8398430740758cf4b95df61b2f59485cc33283fd5b531a35615079b2ff7ffd472a69e3e0b332b9456cee67532a9e35b31c42673f2b6ad707"
+
+[update]
+[update.modrinth]
+mod-id = "SmhnhRlv"
+version = "Q3iGFpzT"

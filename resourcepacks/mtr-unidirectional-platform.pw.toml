@@ -1,0 +1,13 @@
+name = "MTR Unidirectional Platform"
+filename = "MTRYellowConcrete Platform.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TPJdG7jl/versions/Rbc3WS8w/MTRYellowConcrete%20Platform.zip"
+hash-format = "sha512"
+hash = "e8c553a2e3d7e6807cdb0d0b4a2bdd25e20cae9cbd0d221a3359ea0b496acb66d388e34d52a62f6a0c3d749577e678a1373037ca895c79d707e991750fd9d891"
+
+[update]
+[update.modrinth]
+mod-id = "TPJdG7jl"
+version = "Rbc3WS8w"

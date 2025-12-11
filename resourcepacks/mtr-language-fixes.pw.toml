@@ -1,0 +1,13 @@
+name = "MTR Mod Language Fixes"
+filename = "MTRLangChanges.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SiDcY5Jd/versions/v0fjPaWs/MTRLangChanges.zip"
+hash-format = "sha512"
+hash = "457926a93a41fc23a8e6e12057c0a33ddcf35bc4868d043e7f6fd152cef765ecfff29535620ba36cf80e82d5f0c933e47401d231012a5b758b3114c374399dd3"
+
+[update]
+[update.modrinth]
+mod-id = "SiDcY5Jd"
+version = "v0fjPaWs"

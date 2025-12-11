@@ -1,0 +1,13 @@
+name = "Aimz Sniper Crosshair"
+filename = "Aimz - Sniper Crosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lP7OH3rE/versions/CH9DyuAv/Aimz%20-%20Sniper%20Crosshair.zip"
+hash-format = "sha512"
+hash = "f6aec25273efb0e953e13fba7404f5d4c3fd5108c6aa25cd3d1cc86afc8bcd3f16b8c8addfa19cbe7523a204151a67314d0277d2e8ae456bfe60400c4d3ac5b6"
+
+[update]
+[update.modrinth]
+mod-id = "lP7OH3rE"
+version = "CH9DyuAv"

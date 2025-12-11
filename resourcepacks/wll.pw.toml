@@ -1,0 +1,13 @@
+name = "MTR Windowless Lift"
+filename = "windowlesslift.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1gyv4D1/versions/dVw0nkwQ/windowlesslift.zip"
+hash-format = "sha512"
+hash = "e8e3aa6753986e70a21b2108fbd114703a543f5e6e35f5c60db4c817bfed6bfe6ed2c9024f3e11eaf26357864d864e8d9e336ccf46932a59add7a1dec4212ee0"
+
+[update]
+[update.modrinth]
+mod-id = "B1gyv4D1"
+version = "dVw0nkwQ"

@@ -1,0 +1,13 @@
+name = "MTR Yutong Retexture"
+filename = "RHT_TRIO.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L7QwogX2/versions/Hr5Xpyq4/RHT_TRIO.zip"
+hash-format = "sha512"
+hash = "97f7ae4191e92d442f329dc47f1468cdc257919ed54b2889b586528a0917df39c917ece65828054b8841966eebcdcc413cb927e4a18698a62b93c21038af13a4"
+
+[update]
+[update.modrinth]
+mod-id = "L7QwogX2"
+version = "Hr5Xpyq4"
