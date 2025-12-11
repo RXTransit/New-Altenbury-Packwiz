@@ -1,12 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/zume.json5"
-hash = "8e2fa39fbe4c191ac922cf0d50eda05a9e24c0a25789030b836fabcafdee8600"
+file = ".minecraft/options.txt"
+hash = "f161ef0f51d4bb9cc5386212bf8fc8cd7425ff1adfaba5a04214e05adfd7c307"
 
 [[files]]
-file = "minecraft/options.txt"
-hash = "f161ef0f51d4bb9cc5386212bf8fc8cd7425ff1adfaba5a04214e05adfd7c307"
+file = "config/zume.json5"
+hash = "8e2fa39fbe4c191ac922cf0d50eda05a9e24c0a25789030b836fabcafdee8600"
 
 [[files]]
 file = "mods/3d-placeable-food.pw.toml"
@@ -771,14 +771,4 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "417f2ce9f6018e0ce5b548c4e3212abe3d74878654dd2a8a057d54c334d5b188"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tpbus.pw.toml"
-hash = "16d409f2df83d9b927fe79dee4d9296d55dcfeba6686c2ff96059d4f3ed1b419"
-metafile = true
-
-[[files]]
-file = "resourcepacks/tptrains.pw.toml"
-hash = "901281340c15dd5b580a8a80e15f391d9831b9b0d33154dca099b1c7985ff013"
 metafile = true
