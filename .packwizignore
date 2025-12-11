@@ -1,2 +1,4 @@
 #Exclude .git
-.git\
+/.git
+#Exclude .zip
+*.zip
