@@ -1,0 +1,13 @@
+name = "Slideshow(Fabric)"
+filename = "Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CvIO1eYD/versions/IZ4GdyrK/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
+hash-format = "sha512"
+hash = "e4d4459a322b573c46f2ff282da97b8cb04d9f42c067ea13bb83a41cec0799dbd718ce9015d994e39bdbe76718097ff4c9cbf51d493c363893a5895ffd3176fb"
+
+[update]
+[update.modrinth]
+mod-id = "CvIO1eYD"
+version = "IZ4GdyrK"
