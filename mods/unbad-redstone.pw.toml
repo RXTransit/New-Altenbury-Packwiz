@@ -1,0 +1,13 @@
+name = "Unbad Redstone"
+filename = "unbad-redstone-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mvNwP0Vf/versions/wjN8Tv0e/unbad-redstone-1.2.2.jar"
+hash-format = "sha512"
+hash = "58027d55a2c74edbdac6cfa343477687767c4872d28883ccd131c0fae1bd06806e286624e4c0506c14914f424e087bb2d18facd4cc4631932ffeebc1e520554f"
+
+[update]
+[update.modrinth]
+mod-id = "mvNwP0Vf"
+version = "wjN8Tv0e"

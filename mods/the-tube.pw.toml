@@ -1,0 +1,13 @@
+name = "MTR London Underground Addon"
+filename = "MTR-London-Underground-Addon-fabric-2.2.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrAXj11W/versions/udWNOhrU/MTR-London-Underground-Addon-fabric-2.2.4%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "8399eb039eeee5090810cf37b4d16ce62a38322c79b4d198246375fab509954611d0e03c80b7a42bd48d5dd3b4cfbd76f6378ce4de734a3203631d4847d0534c"
+
+[update]
+[update.modrinth]
+mod-id = "jrAXj11W"
+version = "udWNOhrU"

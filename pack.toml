@@ -1,0 +1,13 @@
+name = "Rexcliffe MTR Packwiz"
+author = "RX"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8de59d4cb5f22d9fb05be1b1c20de749f538d6d81e60fe169fae64ee954e9273"
+
+[versions]
+fabric = "0.18.2"
+minecraft = "1.20.1"

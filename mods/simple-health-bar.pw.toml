@@ -1,0 +1,13 @@
+name = "Simple Health Bar"
+filename = "Simple Health Bar v1.0.2 [Fabric 1.20.1].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mUkrhMZ1/versions/79HvqiDo/Simple%20Health%20Bar%20v1.0.2%20%5BFabric%201.20.1%5D.jar"
+hash-format = "sha512"
+hash = "5347452ce1f6e51f31cd1bc9a3c5a36d1abc572bc15e3ed452aeaa08bb9f2f397d667b4a993876e21c3d1a89533e47c9888505373846ab5abee80e5d3f3e6e11"
+
+[update]
+[update.modrinth]
+mod-id = "mUkrhMZ1"
+version = "79HvqiDo"

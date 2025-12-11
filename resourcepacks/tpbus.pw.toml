@@ -1,0 +1,8 @@
+name = "TPBus"
+filename = "TransperthVolvo.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/8ahj3n7hc9c71xltrryew/TransperthVolvo.zip?rlkey=g9uqvy6alc95giwp7rfy7gqf5&st=ebiqw59t&dl=1"
+hash-format = "sha256"
+hash = "84ae8ff2ffeb9b20c32245c7168871f907f7c351ffb58cca2cc34f4d30a350a2"

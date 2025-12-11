@@ -1,0 +1,13 @@
+name = "Concrete+ (FABRIC)"
+filename = "concreteslabsandstairs-v1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d231b34ec4e4025a1179657cdc807acc88e16c71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4584356
+project-id = 807237

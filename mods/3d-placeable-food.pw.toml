@@ -1,0 +1,13 @@
+name = "3D Placeable Food"
+filename = "3dplaceablefoodUPDATE-1.1.3 1.20.1 fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MFgnFY8Z/versions/ogHC3NaV/3dplaceablefoodUPDATE-1.1.3%201.20.1%20fabric.jar"
+hash-format = "sha512"
+hash = "d2e0daf69a1561d7730646d4cffe09b227c0e68ff70556cb4bc733e71413550d5a7e8db141c62bd7d01ef462bb00f50f786cdacc7bc0ea2ad5e3400f77080d77"
+
+[update]
+[update.modrinth]
+mod-id = "MFgnFY8Z"
+version = "ogHC3NaV"

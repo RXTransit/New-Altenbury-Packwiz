@@ -1,0 +1,13 @@
+name = "Prague Metro Decorations"
+filename = "pmd-1.2.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4UyyBH34/versions/mQ8mVLtI/pmd-1.2.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "4512557074441ba19a946ceea5d9da3a12888a4cd83e80b50a8dad3b927f385b8dd713f4835d25792e014a0a1ac9108711e6e576c9c3cba1460b6f9267af19da"
+
+[update]
+[update.modrinth]
+mod-id = "4UyyBH34"
+version = "mQ8mVLtI"

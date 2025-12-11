@@ -1,0 +1,13 @@
+name = "no-spider"
+filename = "nospider-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/C1EwmZlF/versions/k3cdYGRI/nospider-1.1.jar"
+hash-format = "sha512"
+hash = "8a3c08b69fb55e099d26e484210b7f3d0131de6e3e2861ae4bd98e77dfc51f9e07e82965d445066d44437cf085f3a68fb279d5767ed9f158fbe5598e68961c5e"
+
+[update]
+[update.modrinth]
+mod-id = "C1EwmZlF"
+version = "k3cdYGRI"

@@ -1,0 +1,13 @@
+name = "Who am I?"
+filename = "whoami-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CcxcmoLQ/versions/XPNNg2I8/whoami-1.0.jar"
+hash-format = "sha512"
+hash = "05f89c687e59b060ee6f7440efd6d731a2a656a7567422244949e11cbf2412160cb8596291638b95f536152c11a4dcdf5eabc0cebb671b1b8c2d18aa0b4edfd7"
+
+[update]
+[update.modrinth]
+mod-id = "CcxcmoLQ"
+version = "XPNNg2I8"

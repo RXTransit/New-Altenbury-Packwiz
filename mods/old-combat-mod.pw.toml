@@ -1,0 +1,13 @@
+name = "Old Combat Mod"
+filename = "OldCombatMod_Fabric_1.20.X.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dZ1APLkO/versions/YHgjuog7/OldCombatMod_Fabric_1.20.X.jar"
+hash-format = "sha512"
+hash = "557d15a5e2424cce1f1014d338f33406a3eb1dac7b07c628144e0fcfb1e19b5c3ae305d5419513cc7d654f550a929183d755b8f170fb340b12d574cadf7bb2fd"
+
+[update]
+[update.modrinth]
+mod-id = "dZ1APLkO"
+version = "YHgjuog7"

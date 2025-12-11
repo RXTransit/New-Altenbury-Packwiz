@@ -1,0 +1,13 @@
+name = "Shelves"
+filename = "shelfmod-1.20.1-fabric-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6ybx4jID/versions/j9rniP1A/shelfmod-1.20.1-fabric-3.1.jar"
+hash-format = "sha512"
+hash = "85aea1589b39f09887086f3b57ba189b8ffdbe6baeaf805a1fda1e0469d359866d4f18e650fb5864a1ac527af6e538df7af13b2d6c5d337e005aa37acd141dbd"
+
+[update]
+[update.modrinth]
+mod-id = "6ybx4jID"
+version = "j9rniP1A"
