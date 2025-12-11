@@ -5,10 +5,6 @@ file = "config/.puzzle_cache/mojangstudios.png"
 hash = "cfb86d46c1f850450c5436b338e2b97581412bfac1cfb1a65090fb5a894e441a"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ac34d21f5e8eb532897d4c2fdb85d979bbba0210b7a6662c1e8c5fe68dc808e5"
-
-[[files]]
 file = "config/EssentialCommands.properties"
 hash = "eed80ccaa23b1518d0851a03649965c9e581ce07eea67c272671d2185a806791"
 
