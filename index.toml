@@ -89,6 +89,14 @@ file = "config/essentialcommands/rules.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/fps.json"
+hash = "569f7792a117cb046264b1d3266374d18f2ae5c864350768c6f80819576f91ad"
+
+[[files]]
+file = "config/fpsdisplay.json"
+hash = "d7dd210a1c73f6ab4bb5401377b391df0c1bd51ffa147b5aea4ac6e2ed7930bf"
+
+[[files]]
 file = "config/litematica.json"
 hash = "f2eaccc8a7b3935da929302b68cde3d5eb80e81a1f7d7309a9af6633bd704875"
 
