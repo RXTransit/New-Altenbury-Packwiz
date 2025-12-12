@@ -444,11 +444,6 @@ hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
 metafile = true
 
 [[files]]
-file = "configureddefaults/config/paxi/resourcepacks/fast-better-grass.pw.toml"
-hash = "b6643cac68927881baa84fa7f348a2d60b6d2f901b4612c7a8c4ad882f90f23b"
-metafile = true
-
-[[files]]
 file = "configureddefaults/config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
 hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
 metafile = true
@@ -3552,6 +3547,11 @@ hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
 metafile = true
@@ -3852,6 +3852,11 @@ hash = "e2290a76ff804f689d38070ff8095ea5cf9a6f121871704f17e5d0a1053368d9"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b023a335aa5ebb14048587cfef85b374c023518a1db303eb24f1175530ab0085"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "6c154d18505c366b2117c2cfa06ea66a7f3e1a441456c3e20f195cb446f8103b"
 metafile = true
@@ -3959,6 +3964,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "9b7bbaaf1f6cfa1860d2a11a17dac67d2d7d2e92c84858e0fba795aca4ef3591"
 metafile = true
 
 [[files]]
@@ -4152,6 +4162,11 @@ hash = "d24d49d7ed6f8de03ce8e9ba9dd91399e86a006a863b6f1c2c3e6813a3e000a9"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "67f6d21fb847eeecec9978e0a10c77f987073e6f2be5f20db0a07abcb046952a"
 metafile = true
@@ -4164,6 +4179,21 @@ metafile = true
 [[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "3d30dc4c0da00377baccbed6448f15948e2b84acab55407b3c13c21dd309791e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "82157d9f6f710334dd1e206a9d7b863e7dc82554c943608f4a19d7c791ed17f6"
 metafile = true
 
 [[files]]
@@ -4244,6 +4274,11 @@ metafile = true
 [[files]]
 file = "mods/watervision.pw.toml"
 hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "a56025e9fd5564e878919fb5cb810696404e24fed36e3fe2cd11d9d5be124a2b"
 metafile = true
 
 [[files]]
