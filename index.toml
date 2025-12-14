@@ -3622,6 +3622,11 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -3899,11 +3904,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
-metafile = true
-
-[[files]]
-file = "mods/legacy4j.pw.toml"
-hash = "cfc0aca4763dd6f60bbec228e759b957ebadc9e2c808350affa808404ee39a88"
 metafile = true
 
 [[files]]
