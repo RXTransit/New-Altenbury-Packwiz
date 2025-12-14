@@ -3532,11 +3532,6 @@ hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
 
 [[files]]
-file = "mods/bedrockify.pw.toml"
-hash = "2c89dbb76c9118ebb9f75e23aa0b337588907891d9fe50d7d5a497eaacb82fee"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
 metafile = true
@@ -3624,6 +3619,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
 metafile = true
 
 [[files]]
@@ -3792,6 +3792,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/factory-api.pw.toml"
+hash = "a8d056dc28ac42e04cb24d5201c36497efacdd56fbdd7222e2b492f3a27f9cb5"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "d987a241a56c9e3fde315ca942c8240911b51c98d7d5bd1f089c25ddb8b6cca1"
 metafile = true
@@ -3899,6 +3904,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/legacy4j.pw.toml"
+hash = "cfc0aca4763dd6f60bbec228e759b957ebadc9e2c808350affa808404ee39a88"
 metafile = true
 
 [[files]]
