@@ -3518,7 +3518,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "c103356f221744f04ec3341a094a97d0d7d00f802c35946d5672faa39d15ec2e"
+hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
 
 [[files]]
@@ -3899,6 +3899,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/limitless-banners.pw.toml"
+hash = "e73073555d5be20154a9d551b0f444f36421bdd6eca0a185b13bb9c1bf69b22e"
 metafile = true
 
 [[files]]

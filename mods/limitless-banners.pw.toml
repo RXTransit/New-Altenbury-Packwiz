@@ -1,0 +1,8 @@
+name = "limitless-banners"
+filename = "limitless-banners-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/bgaczw8r8rv70gkt7o955/limitless-banners-1.0.0.jar?rlkey=w1s1f8mqthlllum9hunf00ttx&st=hxnhuwwz&dl=1"
+hash-format = "sha256"
+hash = "0260a1c51d418afe5e3a34f0d6137e3144715eef6f82dd3b5ff25354fc61f8c6"
