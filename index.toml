@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "2b85af43362c7edd1f4b9e1a29e6337cbf286259c838d19594569716019fbfb8"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "be362a777af2b76ef4c4d51d186a4b4e5dd795cb8be395f9d94764a8676e2320"
+hash = "5c2d92a3f3e48ddc77d1dc43c310cb938ca2aa95c733beee694351338140fe80"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -83,16 +83,6 @@ hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/mtr1067mm_rail.pw.toml"
-hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/mtraustralian-narrow-trains.pw.toml"
-hash = "e6dfb8291c1c5579278ed9a54599031e84e25818a0cc3c92af10bccccda5c338"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/mtrnsw-trainlink-dmu-trains.pw.toml"
 hash = "d34376b85eb21e8cd0047b1a1c05b7e46faad48833110e8f93fee2309b0f49d1"
 metafile = true
@@ -115,16 +105,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/the-bombardier-turbostar-pack.pw.toml"
 hash = "9ba805193be4cf6dba1741138835f5794eb5523b3a800ecf8ef483630ef2e289"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/tptrains.pw.toml"
-hash = "279c295e6f5a368cd9c3acadcdcd1fcd899481528dc8e60d84cd5f6f0b057cfb"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/tpvolvo.pw.toml"
-hash = "4142c7beb745756c2fe4ce19d3ad1c0b6418a9ba9f17ed9ff1cd145aa2f59456"
 metafile = true
 
 [[files]]
