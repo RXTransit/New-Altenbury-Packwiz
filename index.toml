@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "884e5566ea86d16fd504f6ae528d8fdc84fa48110582cc56111008b8c3348fa4"
+hash = "782e40f0369a2a2a17240f1b2476a7ea693da12addb06f54d8662a8486cd35b5"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -16,6 +16,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/airliners-for-mtr(4.0).pw.toml"
 hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bare-bones-simple-ctm.pw.toml"
+hash = "4f40299721d84eda8759eb9a18aebfeeeffdfbf38db205c2375d4f247e0b9419"
 metafile = true
 
 [[files]]

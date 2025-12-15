@@ -1,0 +1,13 @@
+name = "Bare Bones Simple CTM"
+filename = "BB Simple CTM - Consistent Glass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O99FqR6s/versions/SozlVXYT/BB%20Simple%20CTM%20-%20Consistent%20Glass.zip"
+hash-format = "sha512"
+hash = "d991aad620f1042b7fcea4cae5148c9647b27afac9be5509de1f80c30c8f3afd5aa0f2d5736eb119540f9565bf5350634a9cb32995343c18e82242200962e3d9"
+
+[update]
+[update.modrinth]
+mod-id = "O99FqR6s"
+version = "SozlVXYT"
