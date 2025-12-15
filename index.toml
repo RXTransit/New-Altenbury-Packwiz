@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "3a8ab46998dbc5dd0c85e8fe6fce06c7e78d30adc30cdefaf1e6732c76055644"
+hash = "884e5566ea86d16fd504f6ae528d8fdc84fa48110582cc56111008b8c3348fa4"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -19,13 +19,28 @@ hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/american-bus-pack.pw.toml"
-hash = "cf752160593c1da448da8b4eda83f719100db2b7c6580caba5fe6b48b8cce2e0"
+file = "config/paxi/resourcepacks/bare-bones-x-eating-animation.pw.toml"
+hash = "9fdbcf0c7c6f989dc0f910b3c7343d1872db1f1afbde36bbbd1bb3e4bad2d4a2"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bare-bones-x-fresh-animations.pw.toml"
+hash = "35a47cff0408299315cc2cb731376dcf48119035a55ac1caa61693eb06d89672"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bare-bones.pw.toml"
+hash = "dc14773605ec2aaba3dabe92bfb6269e2a3fa95116630b8ce51efeff3a54468e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/bare-metals.pw.toml"
+hash = "76fc515811ae4f6230e40a734e11d1dd7e0da7b09dd1db776fe44d60a1acb8bc"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
-hash = "571fdebfb68af8fd753525db8337b012429cbb9d240331da0a403efe32a45c62"
+hash = "3b905eda481f342b9eb5721a1ef32fc8935b3866f6334860d7b5ce2ca6351a5e"
 metafile = true
 
 [[files]]
@@ -64,6 +79,11 @@ hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/modded-bare-bones.pw.toml"
+hash = "e10b58f6a87f0831cbf4083cccaf01fab9e16880be994f627e09ab59db45b743"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/modern-font-pack.pw.toml"
 hash = "4052a5a9648431777939427bf908d687b2d834a8826d357db4c79b74c6a507b2"
 metafile = true
@@ -81,16 +101,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/mtrnsw-trainlink-dmu-trains.pw.toml"
-hash = "d34376b85eb21e8cd0047b1a1c05b7e46faad48833110e8f93fee2309b0f49d1"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/programmer-art-fix.pw.toml"
-hash = "2a0d3edde7912ff0b9d9c342a8c88ba66cb859aea4612cc4c6a9e97c0cf5303f"
 metafile = true
 
 [[files]]
