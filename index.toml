@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "782e40f0369a2a2a17240f1b2476a7ea693da12addb06f54d8662a8486cd35b5"
+hash = "7209f5c9f66ebb0c3f4a9c628262061bebb00097e35e8abd1d57bd75c9c27ced"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/bare-bones-simple-ctm.pw.toml"
-hash = "4f40299721d84eda8759eb9a18aebfeeeffdfbf38db205c2375d4f247e0b9419"
+hash = "d8351b2177c713f446917a778a64875f9becd489e6645321d33c0bdfe2e8655f"
 metafile = true
 
 [[files]]
