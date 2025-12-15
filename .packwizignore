@@ -4,3 +4,5 @@
 /Rexcliffe-MTR-3.0.2.zip
 #Exclude .gitattributes
 /.gitattributes
+#Exclude Readme
+/.README.md

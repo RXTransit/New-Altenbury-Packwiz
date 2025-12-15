@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "be362a777af2b76ef4c4d51d186a4b4e5dd795cb8be395f9d94764a8676e2320"
 
