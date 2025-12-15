@@ -3677,6 +3677,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-fastfood.pw.toml"
+hash = "de8d335b60165a7cb640389494b96ead3468b3fe13a7885b78c46188ec9fd957"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
@@ -3794,11 +3799,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
-metafile = true
-
-[[files]]
-file = "mods/factory-api.pw.toml"
-hash = "a8d056dc28ac42e04cb24d5201c36497efacdd56fbdd7222e2b492f3a27f9cb5"
 metafile = true
 
 [[files]]
@@ -3984,6 +3984,11 @@ metafile = true
 [[files]]
 file = "mods/minopp.pw.toml"
 hash = "4957f080380defde08ff83e90483fd2b95ac7d7cf9007b1e71bef59b06c65be8"
+metafile = true
+
+[[files]]
+file = "mods/modern-decorations-mod.pw.toml"
+hash = "2189f8a7553041fc0b40a378d161f5a5889f6752edcb8d6fbc1e70aff4683c88"
 metafile = true
 
 [[files]]
