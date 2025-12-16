@@ -19,11 +19,6 @@ hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/avanti-west-coast-br-class-221-super-voyager.pw.toml"
-hash = "d019c262d709e6817ee2e6a7e1093bc8a96d9de8fc12a888c316aa7d93fbc8a6"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/bare-bones-x-eating-animation.pw.toml"
 hash = "9fdbcf0c7c6f989dc0f910b3c7343d1872db1f1afbde36bbbd1bb3e4bad2d4a2"
 metafile = true
@@ -109,11 +104,6 @@ hash = "64bfd21ed65b150ebf7bd5bccb7177dae535172b96fd95216547ed9c1864e658"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/mtr-unidirectional-platform.pw.toml"
-hash = "b7a974c23786633f2bdabfe1f48f4d9a368aab56d15d3dce6cd1ff729e39ef05"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
 metafile = true
@@ -121,11 +111,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtrnasmoothstone.pw.toml"
 hash = "92d3a2c98e676332ae3ac5a2fae883151edcc9a26c2665d6e3b90d2d426fd620"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/mtrnew-zealand-trains.pw.toml"
-hash = "16ff42e6c9838286399ff0be05c5483cbb5c2f21fa6c194c2a18425dfddf2594"
 metafile = true
 
 [[files]]
