@@ -1,0 +1,8 @@
+name = "MTRNASmoothStone"
+filename = "MTRNAPlatform-SmoothStone.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/bynaznowxl5uvae8mf7x5/MTRNAPlatform-SmoothStone.zip?rlkey=mh57sp4a9f4rs46kugy3j7iy1&st=857atwkk&dl=1"
+hash-format = "sha256"
+hash = "a7ce478abf2cbc6026908e0d73f64b45ed97a55edf4a5e9a39718ed1eaae7793"

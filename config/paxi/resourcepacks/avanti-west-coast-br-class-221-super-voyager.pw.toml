@@ -1,0 +1,13 @@
+name = "[MTR3/4] Avanti West Coast BR Class 221 Super Voyager"
+filename = "Avanti West Coast Super Voyager.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8EBre0TF/versions/el1tJUpr/Avanti%20West%20Coast%20Super%20Voyager.zip"
+hash-format = "sha512"
+hash = "19c1cd46595f18b812b2c96826b0acefc840a9385d649dec00b03474b68fd07986de74b2d7b57554c0b4b437d4aa34c369fbf69b1bd5802211ceaeddd2e72c39"
+
+[update]
+[update.modrinth]
+mod-id = "8EBre0TF"
+version = "el1tJUpr"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "7e756e7543c5e1ceec1dda0164d008da66741666be97156d4fd69ba8d10621aa"
+hash = "927a3d670e515d7b43ccfbe03a01aa0df89b713e7e1dc65ee01a65ee0450d8dd"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -16,6 +16,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/airliners-for-mtr(4.0).pw.toml"
 hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/avanti-west-coast-br-class-221-super-voyager.pw.toml"
+hash = "d019c262d709e6817ee2e6a7e1093bc8a96d9de8fc12a888c316aa7d93fbc8a6"
 metafile = true
 
 [[files]]
@@ -79,6 +84,11 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
+hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/metronet-logo-for-mtr.pw.toml"
 hash = "fb05a94805ed6f31febe38fd0221ba85325dd2ba1935d64f1df55027d45aa9a9"
 metafile = true
@@ -106,6 +116,16 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtrnasmoothstone.pw.toml"
+hash = "92d3a2c98e676332ae3ac5a2fae883151edcc9a26c2665d6e3b90d2d426fd620"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtrnew-zealand-trains.pw.toml"
+hash = "16ff42e6c9838286399ff0be05c5483cbb5c2f21fa6c194c2a18425dfddf2594"
 metafile = true
 
 [[files]]
