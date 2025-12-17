@@ -3734,11 +3734,6 @@ hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
-file = "mods/create-unlimited.pw.toml"
-hash = "4db1f6e180454d5c6b3f9855c1c0763704c8c2f570bd8e76f78463b2d358bff1"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
 metafile = true
