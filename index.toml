@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "927a3d670e515d7b43ccfbe03a01aa0df89b713e7e1dc65ee01a65ee0450d8dd"
+hash = "b8688c7c962e5aa0c12858afeace1fde242013d515a5bd10d67249142e1802ce"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -71,6 +71,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/diagonal-perfect-rails-3d.pw.toml"
 hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/dramatic-skys.pw.toml"
+hash = "bca8d231761e7e9935ae2cfe46fafc4d931dd50127869cd0f925fd2446e7e0f5"
 metafile = true
 
 [[files]]
@@ -4086,6 +4091,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
 metafile = true
 
 [[files]]
