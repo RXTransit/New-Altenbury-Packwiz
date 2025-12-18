@@ -3559,11 +3559,6 @@ hash = "45d4eb215e609e3c3b83156a5a1d2c6d45385eea91b14c9d010a3a1bf45a18be"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
@@ -3904,6 +3899,11 @@ hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "12815484de2690b06b5d971ac8b12e94e4349966413e7f328518724026e9004c"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -4151,6 +4151,11 @@ metafile = true
 [[files]]
 file = "mods/polysit.pw.toml"
 hash = "9e28be7f65522422a4ae6de4b75a6ae539067fdeae63f8c000641ac66925fb33"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "af2963a345e2aa29e712e0c9b300f3b5182fe4ffa21d6bcba06c4a1f3dace6a2"
 metafile = true
 
 [[files]]
