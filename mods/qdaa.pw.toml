@@ -2,12 +2,6 @@ name = "QDAA"
 filename = "qdaa-1.1.2.jar"
 side = "client"
 
-[option]
-optional = 1
-default = 0
-description = "Client sided mod for anti-aliasing (removes jagged edges), may make text too smooth"
-
-
 [download]
 url = "https://cdn.modrinth.com/data/i9FiM2U0/versions/MGZKvR9o/qdaa-1.1.2.jar"
 hash-format = "sha512"
@@ -17,3 +11,8 @@ hash = "e66186fc0bee75b38585376aa809e3456dc10e2f46e2c4b313ffbbf322831e1a14edd5bc
 [update.modrinth]
 mod-id = "i9FiM2U0"
 version = "MGZKvR9o"
+
+[option]
+optional = true
+default = false
+description = "Client sided mod for anti-aliasing (removes jagged edges), may make text too smooth"
