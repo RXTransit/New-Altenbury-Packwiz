@@ -12,6 +12,6 @@ hash = "e66186fc0bee75b38585376aa809e3456dc10e2f46e2c4b313ffbbf322831e1a14edd5bc
 mod-id = "i9FiM2U0"
 version = "MGZKvR9o"
 
-[option]
+[options]
 optional = true
 description = "Client sided mod for anti-aliasing (removes jagged edges), may make text too smooth"
