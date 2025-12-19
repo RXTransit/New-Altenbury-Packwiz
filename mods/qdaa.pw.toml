@@ -13,6 +13,6 @@ mod-id = "i9FiM2U0"
 version = "MGZKvR9o"
 
 [option]
-optional = true
-default = false
+optional = "true"
+default = "false"
 description = "Client sided mod for anti-aliasing (removes jagged edges), may make text too smooth"
