@@ -3674,11 +3674,6 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -4056,6 +4051,16 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "c8615f9ffa0aca1cbc721a3095b24a1e719936c44d715c6a6cae0a24a3d9c7ee"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "866baeb7e9917b92825ddbcf4d113648a6662b5214e078b29c327ff97d0e2774"
 metafile = true
 
 [[files]]
