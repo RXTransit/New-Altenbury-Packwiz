@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "c6dce99f7d94c439680a4d13324dd6f912b8b42a764f6c667fda910face2a5b0"
+hash = "f7a8a874de0ce7a460085f31cf8d42911d53bef6c17bb788128addf6a9dfc316"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
