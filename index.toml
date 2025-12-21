@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "f7a8a874de0ce7a460085f31cf8d42911d53bef6c17bb788128addf6a9dfc316"
+hash = "ddf08dc854161f765809abc4614b4cbd4a6adb8371e9dcb60e53a870c88a93ec"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -89,6 +89,11 @@ hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/imnotsteve.pw.toml"
+hash = "3165410a7c1165f66443e3e348b33e6cc5d44694cd585c7fa9a0ac28e3899151"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
@@ -156,11 +161,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/vdlenglish.pw.toml"
 hash = "61ba981b09d062952dcd0dd3f90a95c055a3f9278be7fa3a3b39879aea6a73fd"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/waifu_villagers.pw.toml"
-hash = "86a182a681ae566ec280c0525613cfccc80c29b73929e280a25a7460d195cd37"
 metafile = true
 
 [[files]]
@@ -3684,11 +3684,6 @@ hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
-file = "mods/controllermod.pw.toml"
-hash = "c82ae604b5cde8989a61e88e9a788c9f14f7c5177b640b8fbd87d402806b5fde"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
@@ -4406,11 +4401,6 @@ metafile = true
 [[files]]
 file = "mods/unbad-redstone.pw.toml"
 hash = "7f135d38417a9b386aceec08aa0e47993c5048b1775a90f5cca6ca3dd5b673c2"
-metafile = true
-
-[[files]]
-file = "mods/unionlib.pw.toml"
-hash = "cbde9bfa3c81ec02be213954a0fcf19aacad1d75eaa15081c7b2ff32ae2a5b76"
 metafile = true
 
 [[files]]
