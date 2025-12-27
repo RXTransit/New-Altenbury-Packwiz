@@ -89,8 +89,8 @@ hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/mtrnasmoothstone.pw.toml"
-hash = "d78752d948fd9d975df3d0b65f491626159fad89bb88c74d122e81c112cb1fa2"
+file = "config/paxi/resourcepacks/mtrsmoothstone.pw.toml"
+hash = "fba7456bb6dc2d0597d0c44618d1fa0294313ab66d94e1703a9f5fbf445f98eb"
 metafile = true
 
 [[files]]
