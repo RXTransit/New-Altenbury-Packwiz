@@ -3890,7 +3890,7 @@ metafile = true
 
 [[files]]
 file = "mods/filters-api.pw.toml"
-hash = "7ebcea4812d449612eb66ac021bb48931c2dc26d8f541765d24638339d644db0"
+hash = "c2282eef8da145084f74dc1a9f34e1c894f74569a6edde383912c2e014143322"
 metafile = true
 
 [[files]]
@@ -4425,7 +4425,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+hash = "ead92f49287323cc9ede408a50cd7e39f4b39046f59906a810e111dfae358419"
 metafile = true
 
 [[files]]
