@@ -1,0 +1,8 @@
+name = "asphaltfix"
+filename = "AsphaltFix.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/iix6ceeoposyrrfauko7b/AsphaltFix.zip?rlkey=ul7voxnlp8t8gc08aggbq8aba&st=k0o5qrpt&dl=1"
+hash-format = "sha256"
+hash = "91943da06606b2beea28fa64b246f04d1018601e2fe10af1bd4ae8f6ad4d885f"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "ce3736867ef4a8b7adf3f9477eb368075f621f86db0f29ed83f9ba5ac1b64b9e"
+hash = "5aa8c444d3675e5e549307b5197e62e9315c4e69acbf84ed87260311fb3cd467"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -19,8 +19,8 @@ hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/barebones-x-trafficcraft-asphalt.pw.toml"
-hash = "3b905eda481f342b9eb5721a1ef32fc8935b3866f6334860d7b5ce2ca6351a5e"
+file = "config/paxi/resourcepacks/asphaltfix.pw.toml"
+hash = "deabda506d0f0ed9cd1b41661b2eb40acdb8e717600cfe5c30481b2285b7ff48"
 metafile = true
 
 [[files]]
@@ -89,13 +89,13 @@ hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/mtrsmoothstone.pw.toml"
-hash = "fba7456bb6dc2d0597d0c44618d1fa0294313ab66d94e1703a9f5fbf445f98eb"
+file = "config/paxi/resourcepacks/npcspiderhider.pw.toml"
+hash = "b962537109ee58eac3480d1a90fa4ddd078db63efd6cf9962903da3252c0edcb"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/npcspiderhider.pw.toml"
-hash = "b962537109ee58eac3480d1a90fa4ddd078db63efd6cf9962903da3252c0edcb"
+file = "config/paxi/resourcepacks/platformfix.pw.toml"
+hash = "285d09e207c0ac818b14c7229b0c4bcc06e0c9de03e26d2faf04ded98feaa1f6"
 metafile = true
 
 [[files]]
