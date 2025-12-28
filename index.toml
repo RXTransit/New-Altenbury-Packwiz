@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "5aa8c444d3675e5e549307b5197e62e9315c4e69acbf84ed87260311fb3cd467"
+hash = "d2c07814b4560c8a581c55a04ee79b37530a52f4dd13805e74cbcc162eb65684"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -46,11 +46,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/diagonal-perfect-rails-3d.pw.toml"
 hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/dramatic-skys.pw.toml"
-hash = "bca8d231761e7e9935ae2cfe46fafc4d931dd50127869cd0f925fd2446e7e0f5"
 metafile = true
 
 [[files]]
@@ -3526,11 +3521,6 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "68ca8fd96c78bee8b121e1f9c2063cfe94b05ec78a0fb4168f295928bfcb54da"
-metafile = true
-
-[[files]]
-file = "mods/attributefix.pw.toml"
-hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
 
 [[files]]
