@@ -3524,6 +3524,11 @@ hash = "68ca8fd96c78bee8b121e1f9c2063cfe94b05ec78a0fb4168f295928bfcb54da"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "6a2a015e93678892c69d5f0893e7e658090c9ac7e843a3373f8ad8f62fee741a"
 metafile = true
@@ -4299,11 +4304,6 @@ hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
 metafile = true
 
 [[files]]
-file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "82157d9f6f710334dd1e206a9d7b863e7dc82554c943608f4a19d7c791ed17f6"
-metafile = true
-
-[[files]]
 file = "mods/templates-2.pw.toml"
 hash = "35a48ce237a5ff9df15d7c737a69a2afce357cc9c876c00cbb143b5ad4b85038"
 metafile = true
@@ -4386,6 +4386,11 @@ metafile = true
 [[files]]
 file = "mods/watervision.pw.toml"
 hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "a56025e9fd5564e878919fb5cb810696404e24fed36e3fe2cd11d9d5be124a2b"
 metafile = true
 
 [[files]]
