@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "73ef4ce0736f00cc8318facae9c2e899fef25af9a0301d801613e2d291a990a4"
+hash = "5e7cce85c8cbe524817e11b8aeb39c72990d4252d2ec44503c68ce95abfe2abb"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -46,16 +46,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/diagonal-perfect-rails-3d.pw.toml"
 hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/imnotsteve.pw.toml"
-hash = "3165410a7c1165f66443e3e348b33e6cc5d44694cd585c7fa9a0ac28e3899151"
 metafile = true
 
 [[files]]
@@ -116,11 +106,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/the-bombardier-turbostar-pack.pw.toml"
 hash = "9ba805193be4cf6dba1741138835f5794eb5523b3a800ecf8ef483630ef2e289"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/tras-fresh-player.pw.toml"
-hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
@@ -3799,11 +3784,6 @@ hash = "21c3264543db261d2b7fca1b0debbae16d11a1945999ff1dfa51551fec381bbf"
 metafile = true
 
 [[files]]
-file = "mods/estrogen.pw.toml"
-hash = "18b0d44213fd3c7e22748e4ad775e6ce5cf243f9b38294130a826c845ae913c4"
-metafile = true
-
-[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
@@ -4266,6 +4246,11 @@ metafile = true
 [[files]]
 file = "mods/stairdoors-extended.pw.toml"
 hash = "bcf52f7e6326957d77bd9bb45a88f661afaf42e9fcab9805d224f63d2b832967"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
