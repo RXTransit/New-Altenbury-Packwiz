@@ -4054,11 +4054,6 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
-file = "mods/moving-elevators.pw.toml"
-hash = "9b7bbaaf1f6cfa1860d2a11a17dac67d2d7d2e92c84858e0fba795aca4ef3591"
-metafile = true
-
-[[files]]
 file = "mods/mru.pw.toml"
 hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
 metafile = true
