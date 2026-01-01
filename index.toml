@@ -3548,11 +3548,6 @@ hash = "51904b724fd8762c97dcb28daefe5940796494ea609fafe652f4d2332abb69f1"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
