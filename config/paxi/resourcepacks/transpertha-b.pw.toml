@@ -1,0 +1,8 @@
+name = "TransperthA-B"
+filename = "Transperth-A-B-Series.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/8cyg1qpnfcmh4rgfgrzud/Transperth-A-B-Series.zip?rlkey=kvz9qbbh905b02h14bo26h0pc&st=ep22d3b8&dl=1"
+hash-format = "sha256"
+hash = "c50d4642624a4805e9b56e4f19f4a71c13d3d9f52c39a801c423f7b9fef813de"

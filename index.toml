@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "290a780e2aaa16196b296b9e7660929b28911c817d37b9f2f849a5412cc83361"
+hash = "0703968329ff7ef5b49ad3ac29bdcf19dd33fb729b37c1b80b29450dcff0ad36"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -49,6 +49,11 @@ hash = "66bd1d040ee84bb64f248cc55c324ea550234d07213c315057fc274e50a3690f"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
@@ -79,11 +84,6 @@ hash = "b962537109ee58eac3480d1a90fa4ddd078db63efd6cf9962903da3252c0edcb"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/perth.pw.toml"
-hash = "52511c65d558c1018fc591ab8756d5de8a3df7d44a3135b4e1e8da246eaa6bf3"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/platformfix.pw.toml"
 hash = "9fd6eb988eb532ec511eeba8dd3a52794761c69a9e1c3d25353dfa2ff645e0cf"
 metafile = true
@@ -106,6 +106,16 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/the-bombardier-turbostar-pack.pw.toml"
 hash = "9ba805193be4cf6dba1741138835f5794eb5523b3a800ecf8ef483630ef2e289"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/transpertha-b.pw.toml"
+hash = "417fd55c59766ef4170b0d9063debbb032cc2fab78b47b7177f3065e7f00ffc7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/tras-fresh-player.pw.toml"
+hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
