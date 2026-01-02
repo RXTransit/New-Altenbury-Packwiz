@@ -5,3 +5,4 @@ into PrismLauncher/Modrinth/MultiMC when adding a new instance from zip
 Resource Packs are automatically downloaded and configured using paxi
 # Server-IP
 If you forgot: the server ip is rexcliffe.ddns.net:8881
+#Commit notes - DO NOT COMMIT FROM GIT ON WINDOWS, ONLY ON LINUX
