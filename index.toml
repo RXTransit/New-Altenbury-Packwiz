@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "6ebbd8b0001f0c822db9ab723f31b1e15dcafd44aaa0c9b48e4e45fd40a87130"
+hash = "4d61029aacdc09dfe6e6a8f74419f2ce3cfe7fe4dc251da838048f0705d75784"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -81,6 +81,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr1067mm_rail.pw.toml"
 hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mtrnew-zealand-trains.pw.toml"
+hash = "16ff42e6c9838286399ff0be05c5483cbb5c2f21fa6c194c2a18425dfddf2594"
 metafile = true
 
 [[files]]
