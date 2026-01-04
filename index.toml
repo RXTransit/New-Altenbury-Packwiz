@@ -3573,6 +3573,11 @@ hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
 
 [[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "2c89dbb76c9118ebb9f75e23aa0b337588907891d9fe50d7d5a497eaacb82fee"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
 metafile = true
@@ -3585,6 +3590,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
+metafile = true
+
+[[files]]
+file = "mods/blanket.pw.toml"
+hash = "204a6e607eabf19083f9a4f99e7bc33ff9df95d8c77deaba58f67a6a19f8c811"
 metafile = true
 
 [[files]]
@@ -3605,6 +3615,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "ec2c437fe50a3f8ea6077215974ba9f769cb94eb29432156cbbe43137a74013f"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "927a9d030a9bad114c17a4195f25a76f2ba9d0bdaf8e701f323e267dd1ce9edf"
 metafile = true
 
 [[files]]
@@ -4148,11 +4163,6 @@ hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
-file = "mods/polysit.pw.toml"
-hash = "9e28be7f65522422a4ae6de4b75a6ae539067fdeae63f8c000641ac66925fb33"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
@@ -4290,6 +4300,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "6fba63f2152b6e51365f55d4a689f61053a4aa8b785e904715aef3d595a9fcb8"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "82157d9f6f710334dd1e206a9d7b863e7dc82554c943608f4a19d7c791ed17f6"
+metafile = true
+
+[[files]]
+file = "mods/takeaseat.pw.toml"
+hash = "82e0ea125db1f63edea6ef75bff309cb9daeea0329070e5b9d1a7c43656d6953"
 metafile = true
 
 [[files]]
