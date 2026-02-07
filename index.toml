@@ -3788,11 +3788,6 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "6afe3c27f7fd48285e5bed7e1b669fee959a3d6946559c898d5b9be617df8d3c"
-metafile = true
-
-[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "a1b7ea87dc91f24519a4a4cf8170479c3007fb1c651d04d0ea9515a42f42539c"
 metafile = true
@@ -4344,7 +4339,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "35afd05c1afa923227fa52b86f63920d7d9cda9023af1051899a908963c05aa1"
+hash = "6baf60921cecbeaa6a1cb85528913145ffdf4d374f6141f2d51677bf86b8abe4"
 metafile = true
 
 [[files]]
