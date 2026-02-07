@@ -1,13 +1,13 @@
 name = "TrafficCraft"
-filename = "trafficcraft-fabric-1.20.1-1.2.0-beta.2.jar"
+filename = "trafficcraft-fabric-1.20.1-1.2.0-beta.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/zVxBbZKe/trafficcraft-fabric-1.20.1-1.2.0-beta.2.jar"
+url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/bNoW0s8f/trafficcraft-fabric-1.20.1-1.2.0-beta.3.jar"
 hash-format = "sha512"
-hash = "9e091823f01d350ef6ff8e2fc6ad05b7adbba9ea54d091bd3bbaefbd58f370fb2fd8fbbf1294230dacab6d3277df8ec56a8ebf1f44e0401657015f422888180e"
+hash = "838416eed08aa1ad73ab9ad5dd13fd984eee961ec1ac7dbef3a3d7915f6096c8ee32c5260460cf626d89d41851a8c50d5fe461819da94dcf4979e16687649862"
 
 [update]
 [update.modrinth]
 mod-id = "Y1PXWvWn"
-version = "zVxBbZKe"
+version = "bNoW0s8f"
