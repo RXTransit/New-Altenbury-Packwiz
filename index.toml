@@ -3513,6 +3513,11 @@ hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "23d40478504755df0f798dc78cb69f1023568d94a6e1343e47de922782c4f3b6"
 metafile = true
@@ -3973,6 +3978,11 @@ hash = "35c812e91d098b979ce4618ceee0ffc3adc3d857d234c99735977e0ac337d8bb"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
 metafile = true
@@ -4110,6 +4120,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
