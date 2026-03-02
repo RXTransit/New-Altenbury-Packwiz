@@ -3508,18 +3508,8 @@ file = "configureddefaults/options.txt"
 hash = "3a9cac110a029f44eb6a90b7dd1a2ce9fe92d62d39b6d0189c4c3cd2ce5d059d"
 
 [[files]]
-file = "mods/3d-placeable-food.pw.toml"
-hash = "b63510ac72a30691d52e904cb39d75744f2c008c0051d95d5ebd2b139f0793b0"
-metafile = true
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "ea430db88d8f190a053e4f3c662d2a59b6a7508778525034f2b20037ee074aec"
-metafile = true
-
-[[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
 
 [[files]]
@@ -3728,18 +3718,8 @@ hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
 
 [[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "33da71242eed44ccd9e93b1d5c4d9a4dc15fb5e5ce44774468b0c8ee5c2b91b7"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
-metafile = true
-
-[[files]]
-file = "mods/create-threaded-trains.pw.toml"
-hash = "a171827ca41197cfe596f6624bdf574cbbc6532642c1f4dfd5a9d84de908e4b1"
 metafile = true
 
 [[files]]
@@ -3798,11 +3778,6 @@ hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "73402bf90f3d400f7dd4460fd26be49222a70af87ef545c880e89b58d985d141"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5af1714d668d18cf7c500218ad61a9e904fbfce74884c5ae5364434a6c9dc43f"
 metafile = true
@@ -3830,11 +3805,6 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "45f59d9033937ce20492d1925d8851dcff4e16a395c950517ce8b4b903004a1c"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "76ba469ba67cdf17276da7a629ff85518f4c1dfaaae5ad28d9ee2d6bc79439c5"
 metafile = true
 
 [[files]]
@@ -3993,16 +3963,6 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
-file = "mods/loading-window.pw.toml"
-hash = "8bc2e775e53566541e0727d978ae08955603210b1524e6154cb0f73a51d479cb"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
 metafile = true
@@ -4010,16 +3970,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "35c812e91d098b979ce4618ceee0ffc3adc3d857d234c99735977e0ac337d8bb"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "cca59c22f3d72c86e6f33ab6497d7ce8a927aeff2517d7e4415602c623013bc3"
 metafile = true
 
 [[files]]
@@ -4113,11 +4063,6 @@ hash = "d9087668cb1930cb8a3878b6a76b40200ea4ce38beb8c71dc9195078ef57cdfe"
 metafile = true
 
 [[files]]
-file = "mods/old-loading-progress-bar.pw.toml"
-hash = "6c224b564860a7be2fe8a12f5021aa2afb494263479bf35b3cdbda839bbf4c27"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "9ed765da71f977af16c71b3ff56356dea5a149d9626277e4d4868941f8efa1b0"
 metafile = true
@@ -4135,11 +4080,6 @@ metafile = true
 [[files]]
 file = "mods/paxiplus.pw.toml"
 hash = "c62f5aafe329944aecae8a8dea7755f51833abfce59e2fd1c79f3e35d1da84f5"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
@@ -4170,11 +4110,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "0cd339450fbb74cebddfc4aa9599a98d0bdc9dc0e3a82d9d5456007127f94d2d"
 metafile = true
 
 [[files]]
@@ -4220,11 +4155,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
-metafile = true
-
-[[files]]
-file = "mods/shelf-mod.pw.toml"
-hash = "fb35ceeac3178e98553cffaf700051abe89c644fc7e1aa44c66c5e0c0c9514e6"
 metafile = true
 
 [[files]]
@@ -4365,26 +4295,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "407b6a954f9c3aee145dfa649eaa0b336a6b31d7660476c81cba1da1f6ff54e3"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "c890e5a6241113a49c30241c8f08cab161ae3880ca0f6f9325aecd4b76adf6a8"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "e0b5d86b63b2aa52bf50d3b58280fed584f8cfef65edc32e7a8b317690e877bc"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "ead92f49287323cc9ede408a50cd7e39f4b39046f59906a810e111dfae358419"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "1d954e3b9985b3434b38bf84d8a4a615180aa1b0dc2c4088e06f37bfbb879067"
 metafile = true
 
 [[files]]
