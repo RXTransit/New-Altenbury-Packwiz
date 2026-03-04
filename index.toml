@@ -4178,11 +4178,6 @@ hash = "fdb29476d5524f3d1148adda867fa34b8765918bf62ec3dc342353a10f6b71e4"
 metafile = true
 
 [[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "62a6f5a489aa45fda94386b89a75485312338261998ddbb2d11316f595d2c38f"
-metafile = true
-
-[[files]]
 file = "mods/slideshow-fabric.pw.toml"
 hash = "b611d88c31e7b11d9c55b5712595a98469eb36811fd747d59beda78f389f273e"
 metafile = true
