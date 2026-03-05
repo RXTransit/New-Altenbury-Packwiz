@@ -1,0 +1,8 @@
+name = "immersiveportals"
+filename = "immersive-portals-5.2.0-mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/49gqci8mc0o8iqdkphznt/immersive-portals-5.2.0-mc1.20.1-fabric.jar?rlkey=ytwtsofwdavdk5iekpbn0qpzu&st=kpjp6zw3&dl=1"
+hash-format = "sha256"
+hash = "7552acec1d18bc61c95519eabb0905696371c6f135be9a1f89044d74ef33461b"
