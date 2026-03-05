@@ -4,5 +4,6 @@ Copy and Paste this link: https://github.com/RXTransit/New-Altenbury-Packwiz/raw
 into PrismLauncher/Modrinth/MultiMC when adding a new instance from zip
 Resource Packs are automatically downloaded and configured using paxi
 # Server-IP
-If you forgot: the server ip is rexcliffe.ddns.net:8881
+If you forgot: the server ip is 103.15.237.132:20010
 #Commit notes - DO NOT COMMIT FROM GIT ON WINDOWS, ONLY ON LINUX
+
