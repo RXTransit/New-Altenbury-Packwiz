@@ -1,0 +1,13 @@
+name = "Loading Window"
+filename = "loading-window-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zOlabQQH/versions/aEPraFvK/loading-window-1.1.0.jar"
+hash-format = "sha512"
+hash = "fefad65751121be4da2b61ef38d35eab89a80f4a0850c423302898b5c96af4817b1574e5eadeb96b03526114c205c4c897a8a226c3c4a61dc5e64bc1bf594e1d"
+
+[update]
+[update.modrinth]
+mod-id = "zOlabQQH"
+version = "aEPraFvK"
