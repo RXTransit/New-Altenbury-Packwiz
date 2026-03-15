@@ -3753,6 +3753,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "ffe2686741bf6e7c80ad295bdb43407db5677abed062cbbb85ec43704d842ca3"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "a1b7ea87dc91f24519a4a4cf8170479c3007fb1c651d04d0ea9515a42f42539c"
 metafile = true
