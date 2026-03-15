@@ -3483,11 +3483,6 @@ hash = "839796c80707ae3ae35b5fe16b510811189da9c798d1482e8887b34e189bb00e"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "23d40478504755df0f798dc78cb69f1023568d94a6e1343e47de922782c4f3b6"
 metafile = true
