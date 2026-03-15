@@ -1,6 +1,7 @@
 {
     "loadOrder": [
         "vanilla",
+        "fabric",
         "minecraft:supporteatinganimation",
 		"continuity:glass_pane_culling_fix",
         "Moonlight Mods Dynamic Assets",
