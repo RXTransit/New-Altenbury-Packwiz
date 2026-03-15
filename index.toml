@@ -1486,11 +1486,6 @@ hash = "df3fa6df4eb1d8f2e265b5d9124d2147c768019bc7a860af06fddf971e7e8ce2"
 metafile = true
 
 [[files]]
-file = "mods/time-control.pw.toml"
-hash = "c36630b07794f11c6c728a6106ad2d9d42d8f2c3f1e9d80941272af61e6cafb9"
-metafile = true
-
-[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "10b6a4137e030a03598f86b28fe03c9001d6eb2accb2668d5d68d7eca9a7f575"
 metafile = true
