@@ -3688,11 +3688,6 @@ hash = "de8d335b60165a7cb640389494b96ead3468b3fe13a7885b78c46188ec9fd957"
 metafile = true
 
 [[files]]
-file = "mods/create-power-loader-fabric.pw.toml"
-hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
