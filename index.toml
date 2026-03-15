@@ -3754,7 +3754,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "ffe2686741bf6e7c80ad295bdb43407db5677abed062cbbb85ec43704d842ca3"
+hash = "6afe3c27f7fd48285e5bed7e1b669fee959a3d6946559c898d5b9be617df8d3c"
 metafile = true
 
 [[files]]
