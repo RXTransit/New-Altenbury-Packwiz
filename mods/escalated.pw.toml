@@ -1,13 +1,13 @@
 name = "Create: Escalated"
-filename = "escalated-1.1.0+create.0.5.1.j-mc.1.20.1-fabric.jar"
+filename = "escalated-1.2.1+create.6.0.8-mc.1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/zFlY2xfQ/escalated-1.1.0%2Bcreate.0.5.1.j-mc.1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/YftZZoKP/escalated-1.2.1%2Bcreate.6.0.8-mc.1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "c3824aa5392f922906d5466d4c1e1922b3cccee7b8cdd5baddf843416aaf5dc6628c3c0b7a694172ac7437ec68810eb064d05f690d346f23f7f98543fd46c386"
+hash = "ff0bab8f60dd0eb0685096557d4494058849746007b572f8b4a98f299e723b46e719f007e91f4201336a378f823f52b3b88678e531374290f1f436fc603b9e0d"
 
 [update]
 [update.modrinth]
 mod-id = "LyOBYG8Q"
-version = "zFlY2xfQ"
+version = "YftZZoKP"

@@ -1,13 +1,13 @@
 name = "Create Deco"
-filename = "createdeco-2.0.2-1.20.1-fabric.jar"
+filename = "createdeco-2.1.1-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/OHgy53E6/createdeco-2.1.1-1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "f7ce4b520b7eb47fb9d1a8f510465b96673dee2d6f91ff0720713ee62143d095b399a980666538ebfb8b401fb5e93baf50a2cb2be6a4f2adfde2024f198a35c9"
+hash = "96153a62eac6c98d80a29ff5186cf38c304ffaa0463867c6ac6826db8b3234230e78503dcbbac2bc81d467c9f2a07d4fb3b1908d7b6e85d775aabc1492c682d1"
 
 [update]
 [update.modrinth]
 mod-id = "sMvUb4Rb"
-version = "GsxgfeNu"
+version = "OHgy53E6"

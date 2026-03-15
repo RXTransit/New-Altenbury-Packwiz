@@ -1,13 +1,13 @@
 name = "Tianjin Metro"
-filename = "Tianjin-Metro-1.0.2+1.20.1.jar"
+filename = "Tianjin-Metro-1.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/T8cm9Y1S/Tianjin-Metro-1.0.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/1K8fODXw/Tianjin-Metro-1.1.0%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "452a73cde136f08f752a3b92ea6483bf7e401164220da2d001e9483ad38dbd0ad180cd05237aa6388b4ab4c551093e421a48df0d38a19e0879ac34f20845ef9d"
+hash = "81dc02bd8485170f098be1ed936e54157835e37f63c5f1af11fab968362fd2c7ea62cfb8ac0567fa017a312afb9909768e93350392e438b693ae9758beb10734"
 
 [update]
 [update.modrinth]
 mod-id = "P0Pb6K4u"
-version = "T8cm9Y1S"
+version = "1K8fODXw"
