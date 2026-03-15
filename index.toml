@@ -3663,33 +3663,8 @@ hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
-file = "mods/create-connected-fabric.pw.toml"
-hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators-fabric.pw.toml"
-hash = "ee3138fd5b546f541d90a01c2deb0ec00abec4ca54b3195d46e6a32bd12a50a3"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
-metafile = true
-
-[[files]]
-file = "mods/create-fastfood.pw.toml"
-hash = "de8d335b60165a7cb640389494b96ead3468b3fe13a7885b78c46188ec9fd957"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
 metafile = true
 
 [[files]]
