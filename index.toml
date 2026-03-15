@@ -3703,6 +3703,11 @@ hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "961b2afdc2cf40ddcfa14885a192eb047b0c7a56fe61091b3dd5546489aa0eaf"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "af83eb1ea0f7a36e4424248c744c1cbebb5045d361e843b873d4d89bf65ad8ad"
 metafile = true
@@ -4073,6 +4078,11 @@ hash = "c62f5aafe329944aecae8a8dea7755f51833abfce59e2fd1c79f3e35d1da84f5"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "e74c59d685ef768a8f10a423adfeb8c3f7d4ead1d27a48614acf63dbf5452306"
+metafile = true
+
+[[files]]
 file = "mods/pmd.pw.toml"
 hash = "53e054df0711730710021093b3b58f8f8d40730bd62a4280b2373bbddfcf4e2b"
 metafile = true
@@ -4334,12 +4344,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fd725a2383164ee2866a41635b0a8baf4cc1506d33df1ce1cc1455ab98a32e01"
+hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
+hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
 metafile = true
 
 [[files]]
