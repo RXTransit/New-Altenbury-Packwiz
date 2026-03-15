@@ -3483,6 +3483,11 @@ hash = "839796c80707ae3ae35b5fe16b510811189da9c798d1482e8887b34e189bb00e"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "23d40478504755df0f798dc78cb69f1023568d94a6e1343e47de922782c4f3b6"
 metafile = true
@@ -3613,11 +3618,6 @@ hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
-file = "mods/concrete-fabric.pw.toml"
-hash = "6891d68f557fb393cdc66738f984252a7336174aa4a221eb436f013f33ebf76f"
-metafile = true
-
-[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "be0a69834f97c59e7e025d56eb6c3751ed81a4745e17224e63341b110a0088f8"
 metafile = true
@@ -3660,11 +3660,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
-metafile = true
-
-[[files]]
-file = "mods/create-connected-fabric.pw.toml"
-hash = "68f1f763b3505a7765b431395c67c169f5f7ec59eca8eab2b46f5ce2397d0816"
 metafile = true
 
 [[files]]
