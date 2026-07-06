@@ -1,13 +1,13 @@
 name = "CreateBetterFps"
-filename = "CreateBetterFps-1.1.1.jar"
+filename = "CreateBetterFps-1.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/BPMpyOz7/CreateBetterFps-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/lMYIHZNH/versions/X0Qa2Pkj/CreateBetterFps-1.1.2.jar"
 hash-format = "sha512"
-hash = "65105eea22a846b14dcd4ecbf309353db5ddefc5688cb3ac9fdb83331cbb01f55aef236ea170a1adfb5016162f8f093123410458af156277f6875487f3b42100"
+hash = "7af231c709556bf1880bbe735671721b9457324266e13b1462efa5ae163692b44a012e61d6beabec152c1d1de47ba6d151dd774c0c71282736c2f472812ec1be"
 
 [update]
 [update.modrinth]
 mod-id = "lMYIHZNH"
-version = "BPMpyOz7"
+version = "X0Qa2Pkj"

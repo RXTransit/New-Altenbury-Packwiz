@@ -1,13 +1,13 @@
 name = "Modern Font Pack"
-filename = "MFP-JH-1223J.zip"
+filename = "MFP-JH-1224J.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2C5ThaTB/versions/XIdVqhDm/MFP-JH-1223J.zip"
+url = "https://cdn.modrinth.com/data/2C5ThaTB/versions/NZZECMmu/MFP-JH-1224J.zip"
 hash-format = "sha512"
-hash = "fedb93088604b53cd142a17bcde7ee3da83444c5af69f44fd4262fb55e9d9847c1f6f15e768e5d636cc0b83c8a5f7cfbb180ef408f42d65863037bb86de4e313"
+hash = "1dd425242a726ad3cf5e69a1c52c767c048df44ed96d3c27dfe0ebf8e6a9775d7481d00da171fdc154d3793d8f2fba1b5dea2c4c2c9c63abf8814987badf035e"
 
 [update]
 [update.modrinth]
 mod-id = "2C5ThaTB"
-version = "XIdVqhDm"
+version = "NZZECMmu"

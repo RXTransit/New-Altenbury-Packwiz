@@ -3,11 +3,11 @@ filename = "Short Swords.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GExZOLXP/versions/XuOvSzpa/Short%20Swords.zip"
+url = "https://cdn.modrinth.com/data/GExZOLXP/versions/gmCGV0CM/Short%20Swords.zip"
 hash-format = "sha512"
-hash = "b6196b79aaaed563a2cc62239ba7d0cf3f0601d23183c25f73f2532ca4b933f8ea8e6801c277cf4b6370500eac3b1ae80da7e73a923521127388c602fd0d0d73"
+hash = "d9d1f2e4377c02a64ee29f20a47650b2eee331d93f0a18ee2ccf802249e779e2c33bc4794b4981bdb1631ae5a3da91ff1a29ca448f13dab2349be76383253524"
 
 [update]
 [update.modrinth]
 mod-id = "GExZOLXP"
-version = "XuOvSzpa"
+version = "gmCGV0CM"

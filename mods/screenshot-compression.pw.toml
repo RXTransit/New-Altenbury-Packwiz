@@ -1,13 +1,13 @@
 name = "Screenshot Compression"
-filename = "screenshotcompression-1.20.1-1.1.jar"
+filename = "screenshotcompression-1.20.1-1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cfrxss4E/versions/SbXCrVxR/screenshotcompression-1.20.1-1.1.jar"
+url = "https://cdn.modrinth.com/data/cfrxss4E/versions/hYaNJPf3/screenshotcompression-1.20.1-1.3.jar"
 hash-format = "sha512"
-hash = "3b1bd21586f1d53095acdad98cfb0cf6d77ce8f49c18cd24126a605a65c050683c7f6503119c6a2d7024d88922295f1d44057eb5ba9d3f027db73ec833511b93"
+hash = "3819e15adfcedd55ba9e954414e4809fae0be2b9b2b1deef137fe980f01a8994c388684e1bc2ab0a3d5d87b7ee54a82c6a1b90d7541b3cb83793e496ab274927"
 
 [update]
 [update.modrinth]
 mod-id = "cfrxss4E"
-version = "SbXCrVxR"
+version = "hYaNJPf3"

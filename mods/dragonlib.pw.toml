@@ -1,13 +1,13 @@
 name = "DragonLib"
-filename = "dragonlib-fabric-1.20.1-beta-3.0.19.jar"
+filename = "dragonlib-fabric-1.20.1-beta-3.0.28.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/OweaDtNz/dragonlib-fabric-1.20.1-beta-3.0.19.jar"
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/uz4tlLzk/dragonlib-fabric-1.20.1-beta-3.0.28.jar"
 hash-format = "sha512"
-hash = "3bfef5e87d527d6998bb3cf51dbc7ce319558661ee6d39d5a0d44e36bbca7828983341ebb00f4e6dccbc74cc66c021e59ff3dd05c7c391d82058c3a44dfed224"
+hash = "9ec5d184e4461c7320df855b22feeee9cee3caf7e767efc102d5d743005efa0fb660223db79ec4ec1c489d34f6d77b4c56af872272981070388fa86075560189"
 
 [update]
 [update.modrinth]
 mod-id = "sbIsGaOV"
-version = "OweaDtNz"
+version = "uz4tlLzk"

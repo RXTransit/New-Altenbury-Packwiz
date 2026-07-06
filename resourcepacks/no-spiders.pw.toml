@@ -1,0 +1,13 @@
+name = "No Spiders"
+filename = "No-Spider-1.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4sPniBUB/versions/twcBeBCR/No-Spider-1.1.1.zip"
+hash-format = "sha512"
+hash = "1af1738d76318d8072ea763093e3a5824136ab8206c9aee51d742a78466d4aa17fe163339342a11cf499ff8aeb8cea251e84b636955e810b3f766d0352d326d3"
+
+[update]
+[update.modrinth]
+mod-id = "4sPniBUB"
+version = "twcBeBCR"
