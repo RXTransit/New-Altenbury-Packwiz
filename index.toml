@@ -981,11 +981,6 @@ hash = "eaaad20ae01c067df4c0d97d944bdb9b22b33fbe339709f284d60ab91a43d622"
 metafile = true
 
 [[files]]
-file = "mods/escalated.pw.toml"
-hash = "bd53d70498bdf8529b0d4402706fc1791c508d4a6ae0d5676dbbdf1ed8786faa"
-metafile = true
-
-[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "45f59d9033937ce20492d1925d8851dcff4e16a395c950517ce8b4b903004a1c"
 metafile = true
@@ -1078,11 +1073,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
-metafile = true
-
-[[files]]
-file = "mods/interiors.pw.toml"
-hash = "e01aa3b603de9bdfbaf3a22b30494ee628a377a2326ff0dabcb7f7787ca63104"
 metafile = true
 
 [[files]]
