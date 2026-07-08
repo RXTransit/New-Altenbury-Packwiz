@@ -881,11 +881,6 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
@@ -903,26 +898,6 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "8967141c407b288dbf1e54d452372013f81a90e77930266dea0a0118fd13bd9f"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "c53b1bcd1e917d8083aba91ed85eefa2d462b6caa37f297e35e11df51bc96c5f"
-metafile = true
-
-[[files]]
-file = "mods/createbetterfps.pw.toml"
-hash = "7c5872fe419bfc0b0d7735cf08c2dd8e1e7a7d24ad8a667290ebe4da71587a87"
 metafile = true
 
 [[files]]
@@ -1261,11 +1236,6 @@ hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
 
 [[files]]
-file = "mods/no-spider.pw.toml"
-hash = "df59fda51c94d95b70ebeaf67a8501e86b615643b51659a9f9eb941229aa07fa"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
 metafile = true
@@ -1323,11 +1293,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
-metafile = true
-
-[[files]]
-file = "mods/redstonepen.pw.toml"
-hash = "6054f41427006d33365bf20810e5c6ad7e7e3019ece736b39b0c45ddf438cd4e"
 metafile = true
 
 [[files]]
