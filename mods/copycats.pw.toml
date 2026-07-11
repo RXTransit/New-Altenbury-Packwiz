@@ -1,0 +1,13 @@
+name = "Create: Copycats+"
+filename = "copycats-3.0.7+mc.1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/dMrxOciv/copycats-3.0.7%2Bmc.1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "024d5aaacb96a73afe0c2d3810e7fbc0263bef2cd296f2b7b90593700e3ff9414f72e05e4a5301eee5bf8e337c6bab89d69bfd79d9ff0956ef207eb6639cf66c"
+
+[update]
+[update.modrinth]
+mod-id = "UT2M39wf"
+version = "dMrxOciv"

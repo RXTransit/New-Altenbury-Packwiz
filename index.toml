@@ -876,6 +876,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "79d2d0db0f6cffec9bc3661d9a591ad379e041de1235239dba921f63f452eec7"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
@@ -893,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
@@ -1051,11 +1061,6 @@ hash = "930bb7150387995f4764a33a41bc1dde3f0e977c0432010e96ea2076fcf6d85d"
 metafile = true
 
 [[files]]
-file = "mods/gravity-api-fork.pw.toml"
-hash = "4744eec2487b3cc307ceaa93d1a1c021d06d3734da513437558701a737797e85"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
@@ -1068,11 +1073,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "f62e99a22854616567a6ec7d024f912ee0ae873939ce2ef5bc9052814473dead"
-metafile = true
-
-[[files]]
-file = "mods/immersiveportals.pw.toml"
-hash = "0eb2ed9d6c95126002469790d2493baa264f98e543d00ce2c1ee07423d8cc236"
 metafile = true
 
 [[files]]
@@ -1263,11 +1263,6 @@ metafile = true
 [[files]]
 file = "mods/paxiplus.pw.toml"
 hash = "eb6e7c0265dcd1f60ba1a13575f0b7aff293aa2ea42a50abd795ffa2e598a0d6"
-metafile = true
-
-[[files]]
-file = "mods/pehkui.pw.toml"
-hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
