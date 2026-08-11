@@ -1,13 +1,13 @@
 name = "MTR Rail Works"
-filename = "mtr-rail-works-fabric-0.2.3+1.19.4.jar"
+filename = "mtr-rail-works-fabric-0.2.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xqd2bMI8/versions/cSP1pqwS/mtr-rail-works-fabric-0.2.3%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/xqd2bMI8/versions/gH1ND7Tr/mtr-rail-works-fabric-0.2.3%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "43a2beed0e150d79e65e5762531313a18df9774ef3d4c0de6d4b24e8633361fac334e182219649a5cae0d832bd44c1f84e5886211bf04a4e99c759fec3f7f716"
+hash = "90741cb6ea1e91aaa25126ee9df3e24bf20d835caece3deb0bc6217b756460dd105ae4bcb1e596a8a4de8375d6753dc8f97c70d0fcb4cd2ba7e8efa0d6956ba5"
 
 [update]
 [update.modrinth]
 mod-id = "xqd2bMI8"
-version = "cSP1pqwS"
+version = "gH1ND7Tr"

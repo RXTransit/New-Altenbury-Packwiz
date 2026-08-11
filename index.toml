@@ -1217,7 +1217,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrw.pw.toml"
-hash = "243bcff707655e1d619a9627bfafbdff18a28a0e0f859490fa2048850957b302"
+hash = "0a62fe8b5b4037852785272257628439daf93b08edfcbcc4e703a1ff49398477"
 metafile = true
 
 [[files]]
