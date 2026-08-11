@@ -1,0 +1,13 @@
+name = "S1's MTR addon"
+filename = "s1mtraddon-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U74iNbrt/versions/yUffilth/s1mtraddon-1.0.3.jar"
+hash-format = "sha512"
+hash = "0595fd5ef1f165138d4369b270c6817891c14608f517529c71526c2912683813cc85605d1476c7841178bd28f75203bd153325f64c1fce89a607464bd2f35d57"
+
+[update]
+[update.modrinth]
+mod-id = "U74iNbrt"
+version = "yUffilth"

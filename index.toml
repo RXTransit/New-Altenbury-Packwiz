@@ -986,6 +986,11 @@ hash = "eaaad20ae01c067df4c0d97d944bdb9b22b33fbe339709f284d60ab91a43d622"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "bd53d70498bdf8529b0d4402706fc1791c508d4a6ae0d5676dbbdf1ed8786faa"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "45f59d9033937ce20492d1925d8851dcff4e16a395c950517ce8b4b903004a1c"
 metafile = true
@@ -1211,6 +1216,11 @@ hash = "f10654659f38bc073949dc12185f7e74250136ff84acc3d0753f893a0e653965"
 metafile = true
 
 [[files]]
+file = "mods/mrw.pw.toml"
+hash = "243bcff707655e1d619a9627bfafbdff18a28a0e0f859490fa2048850957b302"
+metafile = true
+
+[[files]]
 file = "mods/mtr-france-addon.pw.toml"
 hash = "8612369af57be9506d0e3a3ebf65889f6da4e1880444ab7d52aaec3604ca478b"
 metafile = true
@@ -1323,6 +1333,11 @@ metafile = true
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "0efe63ff58d62a614ca15bad8e5892bc07949c4edf99ffae397aa2b26ff17df7"
+metafile = true
+
+[[files]]
+file = "mods/s1-mtr-addon.pw.toml"
+hash = "d90b696df167e012c9032fa6fbfc0834cced951f7ef58e84764d57bedf7bc893"
 metafile = true
 
 [[files]]
