@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "0254b1a7f32be0307fdb7e724ed71e8aaf8ecbef0a02d7b45fde09d605eaedb9"
+hash = "ca9d99b0b142637c578bf403ddacac66b242fdc3ffe61275afb775e0ddb090bb"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -16,6 +16,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/airliners-for-mtr(4.0).pw.toml"
 hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/american-heavy-freight-pack.pw.toml"
+hash = "44f73cbcc19354756c1bf4ade283927af804ac4e6e720711f3ef2dd199ac47e1"
 metafile = true
 
 [[files]]
@@ -76,6 +81,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/mtr-yutong-retexture.pw.toml"
 hash = "282af0fca77016cf76823ac799a09051cb4698d6062eeebb239d16bb2deae95b"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/no-spiders.pw.toml"
+hash = "e06ccf1f8af54d11595be61e963fe7dcf71eb0a9fb19d1539793dc09d9c40282"
 metafile = true
 
 [[files]]
@@ -1563,11 +1573,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
-metafile = true
-
-[[files]]
-file = "resourcepacks/no-spiders.pw.toml"
-hash = "e06ccf1f8af54d11595be61e963fe7dcf71eb0a9fb19d1539793dc09d9c40282"
 metafile = true
 
 [[files]]

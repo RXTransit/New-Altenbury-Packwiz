@@ -1,0 +1,13 @@
+name = "[MTR4] American Heavy Freight Pack"
+filename = "American Heavy Freight Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4IVGFTrT/versions/VJkhCAcE/American%20Heavy%20Freight%20Pack.zip"
+hash-format = "sha512"
+hash = "9785eff4f4edbcc3488061aa0c763963090aaf9819977d690d88541eadea4ba88c1d1434224364a7a3915a1e03d039a5e6dc0d31d4ef899cd30a9629ad0be554"
+
+[update]
+[update.modrinth]
+mod-id = "4IVGFTrT"
+version = "VJkhCAcE"
