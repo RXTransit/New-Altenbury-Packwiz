@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "fd496bf560cdf62935d6d769d110222c1fd3af4d19b93014fcdb07abcecd319f"
+hash = "353739b192a763f70052e4a9d1d4869962140030a285f22dafdea5b15174d891"
 
 [[files]]
 file = "config/paxi/resourcepacks/ResourcePacksGoHere.txt"
@@ -61,6 +61,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/mbusredux.pw.toml"
+hash = "fda607415afa2387a1ab78079f26407cb26e8bfb407702de4e9e2f7fe67f2d1b"
 metafile = true
 
 [[files]]
@@ -963,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "cacada9983f62859211369ec3eef4e351057de9eb1803520110998ca558b681a"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
 metafile = true
 
 [[files]]

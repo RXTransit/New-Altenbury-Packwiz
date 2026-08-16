@@ -1,0 +1,13 @@
+name = "[MTR4/JCM] mBus Redux"
+filename = "mBusRedux-Buses-2.0-beta-Public.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfQUAqVh/versions/kHQ71PT3/mBusRedux-Buses-2.0-beta-Public.zip"
+hash-format = "sha512"
+hash = "6e23e090d6146c4e106cd981f057387b54060cb7d7b7d7bf05537805b168b3c3049902a59d80c85a8ca683c89c88caeee3b7313bc068079720de96c2a8fb5e71"
+
+[update]
+[update.modrinth]
+mod-id = "HfQUAqVh"
+version = "kHQ71PT3"
